@@ -10,7 +10,7 @@ Growth mindset is understanding that you have the ability to accomplish a task, 
 
 ## About Me
 
-My name is Erich Hartnauer. I am a 32 year old father of three. I previously served in the military prior to working at my current job for Airgas as a C02 plant operator. I am brand new to coding and I am hoping that with the help of Code Fellows that I will be able to land a job in the tech field. A remote position is appealing to me for a multitude of reasons with the main one being able to spend (hopefully) more time with my family. Here is a link to my GitHub portfolio page: [GitHub Portfolio](https://github.com/Erich08).
+My name is Erich Hartnauer. I am a 32 year old father of three. I previously served in the military prior to working at my current job for Airgas as a C02 plant operator. I am brand new to coding and I am hoping that with the help of Code Fellows that I will be able to land a job in the tech field. A remote position is appealing to me for a multitude of reasons with the main one being able to spend (_hopefully_) more time with my family. Here is a link to my GitHub portfolio page: [GitHub Portfolio](https://github.com/Erich08).
 
 
 
