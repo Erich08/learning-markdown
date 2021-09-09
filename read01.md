@@ -27,3 +27,4 @@ Pros | Cons
 We can make cool tables like this | None
 The learning curve is low | Still None
 I cannot think of anymore pros at this time | NA
+This table was made using Markdown | ....
