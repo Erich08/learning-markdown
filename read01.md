@@ -1,3 +1,11 @@
 # What is Markdown anyway?
 Per GitHub: "Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown."
 
+## Markdown Syntax
+
+There are a multitude of things you can do utilizing Markdown syntax. One example is an unordered list by typing in "* (text here)" such as this:
+
+* This is an undordered list
+* This is still an unordered list
+  * We can indent the unordered list
+  * The unordered list in still indented
