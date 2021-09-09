@@ -9,3 +9,11 @@ There are a multitude of things you can do utilizing Markdown syntax. One exampl
 * This is still an unordered list
   * We can indent the unordered list
   * The unordered list in still indented
+
+If we wanted to add _emphasis_ to text we would use either  _ _ or * *  with whatever text you prefer in between. 
+
+Have an inspirational quote you would like to add? Markdown could do that as well. Here is an example:
+> "Surround yourself with those who like big butts, they cannot lie and you will never have to question their trustworthiness."
+> -Sir Mix-a-lot (maybe)
+
+You would like to be able to link a webpage or website you say? Markdown can do that as well. And for your convenience I will be linking the [Markdown Syntax Reference](https://guides.github.com/features/mastering-markdown/) here.
