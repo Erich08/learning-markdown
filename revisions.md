@@ -27,3 +27,7 @@ Once all of the files you are ready to _push_ to Github have been staged you wil
 The next step in the process is to _push_ the files from your computer to Github once they have been staged. This can be accomplished by utilizing the terminal command:
 
 > $ git push origin master
+
+## Conclusion
+
+There are _**MANY**_ more features and commands that are available to you via Github. The idea of this short introduction was to try and briefly describe what Github was as well as some of its functionality. There is a lot of information to process and it is going to require a lot of time and repetition to become more proficient. I hope that you found this information useful as well as helpful.
