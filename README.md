@@ -14,11 +14,11 @@ My name is Erich Hartnauer. I am a 32 year old father of three. I previously ser
 
 ## Table of Contents
 
-_[Reading 1](read01.md)
-_[Reading 2](read03.md)
-_[Reading 3](revisions.md)
-_[Reading 4]
-_[Reading 5]
-_[Reading 6]
-_[Reading 7]
-_[Reading 8]
+1. [Reading 1](read01.md)
+2. [Reading 2](read03.md)
+3. [Reading 3](revisions.md)
+4. [Reading 4]
+5. [Reading 5]
+6. [Reading 6]
+7. [Reading 7]
+8. [Reading 8]
