@@ -33,3 +33,22 @@ The structure, or anatomy, of an HTML document is as follows:
 * `<meta charset="utf-8">` — This element sets the character set your document should use to UTF-8 which includes most characters from the vast majority of written languages. Essentially, it can now handle any textual content you might put on it. There is no reason not to set this and it can help avoid some problems later on.
 * `<title></title>` — the `<title>` element. This sets the title of your page, which is the title that appears in the browser tab the page is loaded in. It is also used to describe the page when you bookmark/favorite it.
 * `<body></body>` — the `<body>` element. This contains all the content that you want to show to web users when they visit your page, whether that's text, images, videos, games, playable audio tracks, or whatever else.
+
+
+## What are semantics?
+
+According to the Oxford dictionary semantics is:
+> The meaning of a word phrase, sentence, or text.
+
+As it pertains to programming MDN has this to say:
+
+> In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
+
+## What are semantics important?
+
+Here are a list of reasons from MDN as to why semantically correct code is important: 
+
+* Search engines will consider its contents as important keywords to influence the page's search rankings
+* Screen readers can use it as a signpost to help visually impaired users navigate a page
+* Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classe
+* Suggests to the developer the type of data that will be populated
