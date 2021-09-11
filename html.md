@@ -44,7 +44,7 @@ As it pertains to programming MDN has this to say:
 
 > In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
 
-## What are semantics important?
+## Why are semantics important?
 
 Here are a list of reasons from MDN as to why semantically correct code is important: 
 
