@@ -10,10 +10,10 @@ According to MDN:
 
 Here is a simple example of a CSS rule:
 
- *`h1 {`
-    *`color: red;`
-    *`size: 5px;`
- *`}`
+ * `h1 {`
+    * `color: red;`
+    * `size: 5px;`
+ * `}`
 
 The _selector_ targets the `<h1>` element. Following the selector we have _curly braces_ that contain the _declarations_. These declarations are what _styles_ the `<h1>` element.
 
@@ -23,16 +23,16 @@ This can be done by _referencing_ the style sheet file inside the `<head></head>
 
 * `<!DOCTYPE html>`
 * `<html>`
-*`<head>`
-*`<link rel="stylesheet" href="mystyle.css">`
-*`</head>`
-*`<body>`
+* `<head>`
+* `<link rel="stylesheet" href="mystyle.css">`
+* `</head>`
+* `<body>`
 
-*`<h1>This is a heading</h1>`
-*`<p>This is a paragraph.</p>`
+* `<h1>This is a heading</h1>`
+* `<p>This is a paragraph.</p>`
 
-*`</body>`
-*`</html>`
+* `</body>`
+* `</html>`
 
 
 You could link the same style sheet to multiple .html files **OR** you could have a style sheet for each indivdual .html file.
