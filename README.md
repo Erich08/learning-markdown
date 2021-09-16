@@ -21,4 +21,4 @@ My name is Erich Hartnauer. I am a 32 year old father of three. I previously ser
 5. [Reading 5](css.md)
 6. [Reading 6](javascript.md)
 7. [Reading 7](read07.md)
-8. [Reading 8]
+8. [Reading 8](read08.md)
