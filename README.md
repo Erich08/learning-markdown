@@ -25,7 +25,7 @@ My name is Erich Hartnauer. I am a 32 year old father of three. I previously ser
 
 ## Code 201 Reading Notes
 
-1. Reading 1
+1. [Reading 1](class-01.md)
 2. Reading 2
 3. Reading 3
 4. Reading 4
