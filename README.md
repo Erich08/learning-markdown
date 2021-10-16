@@ -31,7 +31,7 @@ My name is Erich Hartnauer. I am a 32 year old father of three. I previously ser
 4. [Reading 4](class-04.md)
 5. [Reading 5](class-05.md)
 6. [Reading 6](class-06.md)
-7. Reading 7
+7. [Reading 7](class-07.md)
 8. Reading 8
 9. Reading 9
 10. Reading 10
