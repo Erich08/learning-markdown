@@ -61,3 +61,17 @@ The linear keyword value identifies a transition moving in a constant speed from
 Each timing function has a cubic-bezier curve behind it, which can be specifically set using the cubic-bezier(x1, y1, x2, y2) value. Additional values include step-start, step-stop, and a uniquely identified steps(number_of_steps, direction) value.
 
 When transitioning multiple properties, you can identify multiple timing functions. These timing function values, as with other transition property values, may be declared as comma separated values.
+
+## Project Aristotle
+
+Project Aristotle was started in 2012 by Google. The idea was to figure out what made their employees more effective/productive. One of the researchers assigned to this project was a recent Yale graduate named Julia Rozovsky.
+
+The project started out by reviewing academic studies on that focused on how teams worked. They wanted to know what made teams more effective than other teams. They explored ideas such as did all the team members have similar interests? Were the team members motivated by similar rewards?
+
+Even with all the data they had collected on teams at Google, it was nearly impossible to find any discernable patterns. Or that the composition of any team had any effect. They looked at a total of 180 teams across the company.
+
+As the research continued, they came across was researchers refer to as "group norms." This norms are subjective and based on the group as a whole. That way I interpreted it it seems to be some sort of value system that the entire team can agree on. Some teams avoided any confrontation or disagreements while others embraced them. It went on to talk about how people who preferred to work alone set aside those "proclivities" to work with the group.
+
+The article goes on to cite another study that was done in 2008 that was studying the collective IQ of groups. What they found was that teams who had an equal amount of conversation among its members throughout the day were far more successful than teams that had the majority of conversation take place amongs a select few members. Another interesting aspect was that some groups had individuals who were very smart, and other groups consisted of members who would be considered "average" intelligence but they performed similarly. The reason for this that was given is the latter team was able to leverage the collective strength of all its members to accomplish the tasks at hands. "Two heads are better than one" comes to mind. Another aspect of success was that all of the good teams had a high level of social sensitivity.
+
+> We had lots of data, but there was nothing showing that a mix of specific personality types or skills or backgrounds made any difference. The ‘‘who’’ part of the equation didn’t seem to matter.
