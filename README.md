@@ -43,7 +43,7 @@ My name is Erich Hartnauer. I am a 32 year old father of three. I previously ser
 
 ## Code 301 - Intermediate Software Development
 
-1.
+1. [Reading 1](301-02.md)
 2. [Reading 2](301-02.md)
 
 ## Code 401 - Advanced Software Development
