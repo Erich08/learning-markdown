@@ -48,5 +48,6 @@ My name is Erich Hartnauer. I am a 32 year old father of three. I previously ser
 3. [Reading 3](301-03.md)
 4. [Reading 4](301-04.md)
 5. [Reading 5](301-05.md)
+6. [Reading 6](301-06.md)
 
 ## Code 401 - Advanced Software Development
